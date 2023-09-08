@@ -6,6 +6,7 @@
 
 body {
   min-width: 1100px;
+  max-width: 1440px;
   margin: 0;
   font-family: Raleway, sans-serif;
 }
@@ -31,4 +32,9 @@ a {
 
 img {
   width: 100%;
+}
+
+a:hover {
+  color: #ff6b6b;
+  font-weight: bold;
 }
