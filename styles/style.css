@@ -237,7 +237,7 @@
   text-transform: uppercase;
   z-index: 1;
   padding: 50px 40px 0;
-  line-height: 120%; /* 26.4px */
+
 }
 
 .card__text {
@@ -247,7 +247,7 @@
   font-weight: 400;
   z-index: 1;
   padding: 0px 40px 50px;
-  line-height: 120%; /* 26.4px */
+
 }
 
 .lots__look-more-link {
